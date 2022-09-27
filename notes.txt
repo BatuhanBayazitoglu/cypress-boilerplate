@@ -1,0 +1,14 @@
+1. npm init
+2. npm install cypress cypress-cucumber-preprocessor
+3. npm install prettier 
+4. create .prettierrc file
+
+5. package.json > scripts
+cy:open
+cy:run
+6. npx cypress run
+7. npm run cy:open
+8. plugins > index.js
+9. package.json > "cypress-cucumber-preprocessor" 
+10. cypress > integration > cucumber-tests > login.feature
+11. 
