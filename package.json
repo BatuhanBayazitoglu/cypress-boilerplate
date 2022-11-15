@@ -6,7 +6,7 @@
   "scripts": {
     "cy:open": "cypress open"
   },
-  "author": "bernottit",
+  "author": "batuhanbayazitoglu",
   "license": "ISC",
   "dependencies": {
     "cypress": "^8.7.0",
